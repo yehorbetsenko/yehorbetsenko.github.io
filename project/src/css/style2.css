@@ -1,0 +1,50 @@
+.section {
+  padding: 30px;
+}
+
+.header {
+  font-size: 20px;
+  line-height: 1.5;
+  margin: 60px auto;
+}
+
+.header-span {
+  display: block;
+}
+
+.form-header, .section-header {
+  font-size: 20px;
+  font-weight: 900;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form {
+  border: 5px solid #2727d9;
+  padding: 35px 20px;
+}
+
+.form-button {
+  margin: 12px auto;
+  color: #2727d9;
+}
+
+.form-input {
+  margin-bottom: 12px;
+}
+
+.feature {
+  margin-top: 30px;
+}
+
+.feature-img {
+  height: 50px;
+}
+
+.feature-button {
+  margin-top: 30px;
+}
+
+.feature-box {
+  height: 160px;
+}
